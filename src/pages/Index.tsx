@@ -341,7 +341,7 @@ const Index = () => {
             <li>Durjoy Chatterjee, 4th Year CSE (AIML), IEM, Kolkata.</li>
             <li>Riyanka Das, 4th Year CSE (AIML), IEM, Kolkata.</li>
             <li>Anamitra Sarkar, 3rd Year CSE (AIML), IEM, Kolkata.</li>
-            <li>Mekhla Sen, 3rd Year CSE (AIML), IEM, Kolkata.</li>
+            <li>Mekhla Sen, 3rd Year CSBS, IEM, Kolkata.</li>
             <li>Ariyan Saha, 2nd Year CSE (AIML), IEM, Kolkata.</li>
             <li>Rahi Chakraborty, 2nd Year CSBS, IEM, Kolkata.</li>
           </ul>
