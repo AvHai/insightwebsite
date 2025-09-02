@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 
-const imageFilenames = Array.from({ length: 14 }, (_, i) => `${i + 1}.jpg`);
+const imageFilenames = Array.from({ length: 17 }, (_, i) => `${i + 1}.jpg`);
 
 const images = imageFilenames.map((filename, idx) => ({
   src: `/pictures/${filename}`,
