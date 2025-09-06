@@ -89,7 +89,7 @@ const Index = () => {
           </h2>
           <div className="max-w-4xl mx-auto">
             <p className="text-xl text-muted-foreground leading-relaxed mb-8">
-             Insight 2.0 is more than just a hackathon — its a convergence of brilliant minds, cutting-edge technology, and limitless creativity. Our mission is to foster innovation in artificial intelligence and computer vision, empowering the next generation of tech leaders.This year, Insight 2.0 comes as a 7-day hackathon with computer vision as the central theme. Participants can showcase their skills across two exciting tracks: the computer vision hackathon and a creative poster-making competition.
+            This year, Insight 2.0 unfolds as a 7-day innovation sprint! After registration, teams will get an entire week to collaborate online, bring their ideas to life, and polish their projects. On submission day, you'll submit your PPT and codebase, and after careful evaluation, only the selected teams will be invited on 19th September to showcase their work live.
             </p>
             <div className="grid md:grid-cols-4 gap-8 mt-12">
               <div className="p-6 rounded-2xl bg-card border-glow hover:glow-primary transition-all duration-300">
