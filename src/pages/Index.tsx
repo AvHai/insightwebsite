@@ -89,7 +89,7 @@ const Index = () => {
           </h2>
           <div className="max-w-4xl mx-auto">
             <p className="text-xl text-muted-foreground leading-relaxed mb-8">
-            This year, Insight 2.0 unfolds as a 7-day innovation sprint! After registration, teams will get an entire week to collaborate online, bring their ideas to life, and polish their projects. On submission day, you'll submit your PPT and codebase, and after careful evaluation, only the selected teams will be invited on 19th September to showcase their work live.
+            This year, Insight 2.0 unfolds as an innovation sprint! After registration, teams will get to collaborate online, bring their ideas to life, and polish their projects. On submission day, you'll submit your PPT and codebase, and after careful evaluation, only the selected teams will be invited on 19th September to showcase their work live.
             </p>
             <div className="grid md:grid-cols-4 gap-8 mt-12">
               <div className="p-6 rounded-2xl bg-card border-glow hover:glow-primary transition-all duration-300">
@@ -373,7 +373,7 @@ const Index = () => {
                   href="mailto:insighthackathon2024@gmail.com" 
                   className="text-primary hover:text-primary/80 transition-colors"
                 >
-                  insighthackathon2024@gmail.com
+                  insighthackathon2024@gmail.com || 9903316080
                 </a>
               </div>
             </div>
